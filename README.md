@@ -1,1 +1,1 @@
-my first directory yea
+My first readme
